@@ -47,4 +47,4 @@ npm start
 AES Encrypt
 
 ## UML
-![diagrama de clases](uml.bmp)
+![diagrama de clases](./uml.bmp)

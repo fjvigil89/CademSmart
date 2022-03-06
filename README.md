@@ -47,4 +47,41 @@ npm start
 AES Encrypt
 
 ## UML
-![diagrama de clases](https://gitlab.com/frankjosue.vigilvega/CademSmart/-/blob/master/uml.bmp)
+![diagrama de clases](./uml.bmp)
+
+## Flujo por Controlador
+#### User
+![user_login](./user_login.bmp)
+![user_create](./user_create.bmp)
+![user_ForgotPassword](./user_ForgotPassword.bmp)
+![user_changePassword](./user_changePassword.bmp)
+![user_status](./user_status.bmp)
+
+#### Scheduler
+![scheduler_update](./scheduler_update.bmp)
+
+#### Report
+![report_get](./report_get.bmp)
+
+#### News
+![news_visible](./news_visible.bmp)
+
+#### Favoritos
+![favoritos_delete](./favoritos_delete.bmp)
+![favoritos_list](./favoritos_list.bmp)
+![favoritos_save](./favoritos_save.bmp)
+
+#### Download
+![download_detalle](./download_detalle.bmp)
+![download_detalle_cola](./download_detalle_cola.bmp)
+![download_semanal](./download_semanal.bmp)
+![download_ultimas_descargas](./download_ultimas_descargas.bmp)
+
+#### B2b
+![b2b_status](./b2b_status.bmp)
+
+#### Apertura
+![apertura](./apertura.bmp)
+![apertura_periodo](./apertura_periodo.bmp)
+
+

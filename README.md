@@ -47,4 +47,4 @@ npm start
 AES Encrypt
 
 ## UML
-![diagrama de clases](https://gitlab.com/frankjosue.vigilvega/CademSmart/uml.bmp)
+![diagrama de clases](https://gitlab.com/frankjosue.vigilvega/CademSmart/-/blob/master/uml.bmp)

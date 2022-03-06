@@ -47,5 +47,4 @@ npm start
 AES Encrypt
 
 ## UML
-
-![Alt text](/path/to/img.jpg)
+![diagrama de clases](uml.bmp)

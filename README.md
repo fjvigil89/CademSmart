@@ -47,7 +47,7 @@ npm start
 AES Encrypt
 
 ## UML
-![diagrama de clases](./uml.bmp)
+![diagrama de clases](./img/uml.bmp)
 
 ## Flujo por Controlador
 #### User

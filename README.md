@@ -51,37 +51,37 @@ AES Encrypt
 
 ## Flujo por Controlador
 #### User
-![user_login](./img/user_login.bmp)
-![user_create](./img/user_create.bmp)
-![user_ForgotPassword](./img/user_ForgotPassword.bmp)
-![user_changePassword](./img/user_changePassword.bmp)
-![user_status](./img/user_status.bmp)
+![user_login](./img/user_login.png)
+![user_create](./img/user_create.png)
+![user_ForgotPassword](./img/user_ForgotPassword.png)
+![user_changePassword](./img/user_changePassword.png)
+![user_status](./img/user_status.png)
 
 #### Scheduler
-![scheduler_update](./img/scheduler_update.bmp)
+![scheduler_update](./img/scheduler_update.png)
 
 #### Report
-![report_get](./img/report_get.bmp)
+![report_get](./img/report_get.png)
 
 #### News
-![news_visible](./img/news_visible.bmp)
+![news_visible](./img/news_visible.png)
 
 #### Favoritos
-![favoritos_delete](./img/favoritos_delete.bmp)
-![favoritos_list](./img/favoritos_list.bmp)
-![favoritos_save](./img/favoritos_save.bmp)
+![favoritos_delete](./img/favoritos_delete.png)
+![favoritos_list](./img/favoritos_list.png)
+![favoritos_save](./img/favoritos_save.png)
 
 #### Download
-![download_detalle](./img/download_detalle.bmp)
-![download_detalle_cola](./img/download_detalle_cola.bmp)
-![download_semanal](./img/download_semanal.bmp)
-![download_ultimas_descargas](./img/download_ultimas_descargas.bmp)
+![download_detalle](./img/download_detalle.png)
+![download_detalle_cola](./img/download_detalle_cola.png)
+![download_semanal](./img/download_semanal.png)
+![download_ultimas_descargas](./img/download_ultimas_descargas.png)
 
 #### B2b
-![b2b_status](./img/b2b_status.bmp)
+![b2b_status](./img/b2b_status.png)
 
 #### Apertura
-![apertura](./img/apertura.bmp)
-![apertura_periodo](./img/apertura_periodo.bmp)
+![apertura](./img/apertura.png)
+![apertura_periodo](./img/apertura_periodo.png)
 
 
